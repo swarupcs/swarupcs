@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarupcs" alt="swarupcs" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **GENAI**
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **REACT NATIVE , MERN**
 
 - 📫 How to reach me **swarupd1999@gmail.com**
 
