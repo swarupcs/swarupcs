@@ -86,11 +86,27 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupcs&show_icons=true&locale=en&layout=compact" alt="swarupcs" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupcs&show_icons=true&locale=en&layout=compact" alt="swarupcs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupcs&show_icons=true&locale=en" alt="swarupcs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarupcs&" alt="swarupcs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarupcs&" alt="swarupcs" /></p> -->
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swarupcs&theme=github_dark"/>
+</p>
+
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=swarupcs&show_icons=true&theme=radical&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarupcs&layout=compact&theme=radical" height="170px"/>
+</div>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=swarupcs&theme=black-ice&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+
 
 
 [![Swarup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swarupcs&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
