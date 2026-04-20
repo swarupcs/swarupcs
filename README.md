@@ -213,7 +213,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```
  ✅  Master TypeScript advanced patterns & generics
