@@ -40,30 +40,6 @@
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║     $ whoami                                                             ║
-║     > swarup_das — Full Stack Engineer crafting production systems       ║
-║                                                                          ║
-║     $ cat skills.txt | grep --level=senior                              ║
-║     > MERN · TypeScript · PostgreSQL · MongoDB · MySQL · GenAI          ║
-║                                                                          ║
-║     $ echo $CURRENT_FOCUS                                               ║
-║     > Scalable APIs · RAG Pipelines · System Design · Clean Code        ║
-║                                                                          ║
-║     $ ls ./open-to/                                                      ║
-║     > fulltime/  freelance/  collab/  open-source/                      ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 👤 Engineering Profile
 
 <table>
@@ -80,8 +56,6 @@ My engineering philosophy revolves around three pillars:
 - **Developer experience** — clean APIs, readable code, good docs
 
 Currently exploring the frontier of **Generative AI** — building LLM-powered applications, designing RAG pipelines, and integrating AI into real-world products.
-
-> *I write code that other engineers enjoy reading.*
 
 </td>
 <td width="45%" valign="top">
@@ -241,31 +215,6 @@ const swarup = {
 
 ---
 
-## 🧩 How I Engineer
-
-<div align="center">
-
-```
-┌─────────────────────────────── MY ENGINEERING APPROACH ────────────────────────────────────┐
-│                                                                                              │
-│   📋 UNDERSTAND          🧪 DESIGN            🛠️ BUILD             🚀 SHIP                  │
-│   ─────────────          ────────             ───────             ────────                  │
-│   • Define the           • Plan the           • Write clean,      • Review &                │
-│     problem clearly        architecture         typed code          test thoroughly         │
-│   • Gather all           • Choose right       • Apply SOLID       • Document APIs           │
-│     requirements           data structures      principles          & decisions             │
-│   • Identify edge        • Design APIs        • Write tests       • Deploy with             │
-│     cases first            upfront              & validate          CI/CD pipelines         │
-│   • Clarify              • Think about        • Handle errors     • Monitor &               │
-│     constraints            scalability          gracefully          iterate fast            │
-│                                                                                              │
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🤖 GenAI Engineering Focus
 
 <div align="center">
@@ -322,90 +271,6 @@ Crafting system prompts, few-shot examples & chain-of-thought patterns for relia
 
 ---
 
-## 💼 What I Bring to a Team
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🏗️
-**Architecture**
-
-I think in systems, not features. I design APIs, data models & service boundaries before writing line one.
-
-</td>
-<td align="center" width="25%">
-
-### 🔷
-**Type Safety**
-
-TypeScript-first, strict mode always. If the compiler catches it, your users won't have to.
-
-</td>
-<td align="center" width="25%">
-
-### 📖
-**Readability**
-
-Code is read 10× more than it's written. I write for the next engineer, not just the machine.
-
-</td>
-<td align="center" width="25%">
-
-### 🚀
-**Delivery**
-
-I ship. Not perfect code — *good* code that solves real problems, iterates fast, and moves the needle.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 🧪
-**Testing**
-
-Unit, integration & e2e. I treat tests as living documentation and a safety net, not an afterthought.
-
-</td>
-<td align="center">
-
-### 🤝
-**Collaboration**
-
-Clear communicator. PRs with context, reviews that teach, questions that unblock.
-
-</td>
-<td align="center">
-
-### 🔍
-**Debugging**
-
-Methodical root-cause finder. I read logs, trace errors & fix causes — not just suppress symptoms.
-
-</td>
-<td align="center">
-
-### 📈
-**Growth**
-
-I learn every day. New patterns, papers, tools. I bring fresh ideas while respecting proven solutions.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-
-</div>
-
----
-
 ## 📚 Learning Radar
 
 <div align="center">
@@ -437,55 +302,6 @@ mindmap
       OSS Contribution
       Engineering Leadership
 ```
-
-</div>
-
----
-
-## 💬 Engineering Philosophy
-
-<div align="center">
-
-<br/>
-
-> ### *"Make it work. Make it right. Make it fast."*
-> — Kent Beck
-
-<br/>
-
-> ### *"Programs must be written for people to read, and only incidentally for machines to execute."*
-> — Harold Abelson, SICP
-
-<br/>
-
-> ### *"The best code is no code at all."*
-> — Jeff Atwood
-
-<br/>
-
-> ### *"Simplicity is the soul of efficiency."*
-> — Austin Freeman
-
-<br/>
-
-</div>
-
----
-
-## 🔢 Fun Developer Stats
-
-<div align="center">
-
-| Metric | Value |
-|:---|:---:|
-| ☕ Cups of coffee per feature | `∞` |
-| 🐛 Bugs introduced this week | `git blame says otherwise` |
-| 📦 node_modules size | `heavier than a black hole` |
-| 💡 Stack Overflow tabs open | `always 12+` |
-| 🎯 LeetCode problems solved | `growing daily` |
-| 📝 TypeScript strictness level | `strict: true, always` |
-| 🔁 Commit message quality | `feat: actually meaningful` |
-| ⏰ Time in VS Code today | `¯\_(ツ)_/¯` |
 
 </div>
 
@@ -524,14 +340,5 @@ mindmap
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,25:0d0d2b,50:1a0533,75:0d1f3c,100:020010&height=140&section=footer&animation=fadeIn"/>
-
-
-<br/>
-
-**⭐ If my work resonates with you — a star on my repos goes a long way. Let's build great software together. 🚀**
-
-<br/>
-
-*Last updated: 2026 · Crafted with caffeine, curiosity & a relentless love for clean code.*
 
 </div>
