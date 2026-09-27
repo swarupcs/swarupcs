@@ -315,7 +315,7 @@ mindmap
 
 | Platform | Handle | Purpose |
 |:---:|:---:|:---:|
-| 💼 **LinkedIn** | [swarup-d]([https://linkedin.com/in/swarup-das-cs12101999](https://www.linkedin.com/in/swarup-d/)) | Professional network & opportunities |
+| 💼 **LinkedIn** | [swarup-d](https://www.linkedin.com/in/swarup-d) | Professional network & opportunities |
 | 🐦 **X (Twitter)** | [@swarupdcs](https://x.com/swarupdcs) | Tech thoughts & dev updates |
 | 🧩 **LeetCode** | [swarupdcse](https://www.leetcode.com/swarupdcse) | DSA grind & problem solving |
 | 📧 **Email** | [swarupd1999@gmail.com](mailto:swarupd1999@gmail.com) | Direct collaboration |
